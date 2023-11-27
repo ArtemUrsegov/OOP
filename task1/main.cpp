@@ -7,10 +7,10 @@
 int main(){
 
     RedSquare bigSquare;
-    bigSquare.addShape(new Circle(2));
-    bigSquare.addShape(new Circle(6));
-    bigSquare.addShape(new TriAngle(9,5));
-    bigSquare.addShape(new Rectangle(7,4));
+    bigSquare.addShape(new Circle(5));
+    bigSquare.addShape(new Circle(5));
+    bigSquare.addShape(new TriAngle(10,5));
+    bigSquare.addShape(new Rectangle(10,5));
     std::cout<< bigSquare.calcSquare()<<std::endl;
     return 0;
 
