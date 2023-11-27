@@ -1,0 +1,3 @@
+C:/Users/urseg/OOP/task2/build/CMakeFiles/CrazyTrain.dir
+C:/Users/urseg/OOP/task2/build/CMakeFiles/edit_cache.dir
+C:/Users/urseg/OOP/task2/build/CMakeFiles/rebuild_cache.dir

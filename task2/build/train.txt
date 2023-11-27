@@ -1,0 +1,11 @@
+9
+blocks 5
+blocks 10
+blocks 4
+wood 8
+blocks 12
+blocks 8
+wood 7
+blocks 3
+wood 15
+
